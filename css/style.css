@@ -215,7 +215,7 @@
               }
               #a
               {
-                width: 401px;
+                width: 101px;
               }
             }
             
@@ -255,7 +255,7 @@
               .burger1
               {
                 display: block;
-                margin-left: 270px;
+                margin-right:90px;
               }
               #myNav2
               {
@@ -277,8 +277,12 @@
               }
               #n
               {
-                margin-left: 44px;
-                width: 11px;
+                margin-left: px;
+                width: 311px;
+              }
+              .buttt
+              {
+                margin-left: 31px;
               }
               #media
               {
@@ -296,7 +300,7 @@
               }
               .navbar-brand
               {
-                padding-right: 330px;
+                margin-left: 10px;
                 padding-top: 32px;
                 
               }
@@ -529,7 +533,7 @@
               #photo2
               {
                 flex-direction: column;
-                width: 100%;
+                width: 270px;
                 height: 240px;
               }
               #photo3
@@ -548,6 +552,11 @@
               #size
               {
                 font-size: 35px;
+                margin-left: 64px;
+              }
+              #about-photo3
+              {
+                height: 88px;
               }
               #size1
               {

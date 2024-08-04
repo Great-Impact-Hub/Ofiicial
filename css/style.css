@@ -224,7 +224,10 @@
                 width: 170px;
                 height: 240px;
               }
-                        
+              #zz
+              {
+                margin-right: 55px;
+              }
             @media screen and (max-width: 768px)
             {
               .topnavb {
@@ -557,11 +560,11 @@
               #size
               {
                 font-size: 35px;
-                margin-left: 64px;
+                margin-left: 14px;
               }
               #about-photo3
               {
-                height: 88px;
+                height: 478px;
               }
               #size1
               {

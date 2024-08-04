@@ -237,7 +237,13 @@
               {
                 margin-right: 55px;
               }
-             
+                .topnavb {
+                overflow: visible ;
+                display: flex;
+                justify-content: space-around;
+                width: 40%;
+                margin-top: 50px;
+              }
               
 
             }

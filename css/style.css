@@ -226,7 +226,7 @@
                 font-size: 35px;
                 margin-left: 14px;
               }
-            }
+            
             #photo2
               {
                 flex-direction: column;
@@ -237,6 +237,7 @@
               {
                 margin-right: 55px;
               }
+            }
             @media screen and (max-width: 768px)
             {
               .topnavb {
